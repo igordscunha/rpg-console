@@ -1,0 +1,14 @@
+C:\Users\igord\Documents\dev\RPG\bin\Debug\net7.0\RPG.exe
+C:\Users\igord\Documents\dev\RPG\bin\Debug\net7.0\RPG.deps.json
+C:\Users\igord\Documents\dev\RPG\bin\Debug\net7.0\RPG.runtimeconfig.json
+C:\Users\igord\Documents\dev\RPG\bin\Debug\net7.0\RPG.dll
+C:\Users\igord\Documents\dev\RPG\bin\Debug\net7.0\RPG.pdb
+C:\Users\igord\Documents\dev\RPG\obj\Debug\net7.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igord\Documents\dev\RPG\obj\Debug\net7.0\RPG.AssemblyInfoInputs.cache
+C:\Users\igord\Documents\dev\RPG\obj\Debug\net7.0\RPG.AssemblyInfo.cs
+C:\Users\igord\Documents\dev\RPG\obj\Debug\net7.0\RPG.csproj.CoreCompileInputs.cache
+C:\Users\igord\Documents\dev\RPG\obj\Debug\net7.0\RPG.dll
+C:\Users\igord\Documents\dev\RPG\obj\Debug\net7.0\refint\RPG.dll
+C:\Users\igord\Documents\dev\RPG\obj\Debug\net7.0\RPG.pdb
+C:\Users\igord\Documents\dev\RPG\obj\Debug\net7.0\RPG.genruntimeconfig.cache
+C:\Users\igord\Documents\dev\RPG\obj\Debug\net7.0\ref\RPG.dll
