@@ -38,7 +38,7 @@ public class Personagem
         Equips = equips;
     }
 
-    public static string? Nick { get; private set; }
+    public static string? Nick { get; set; }
     public static string? Vocacao { get; private set; }
     public static int VidaMaxima { get; set; }
     public static int VidaAtual { get; set; }

@@ -10,6 +10,7 @@ namespace RPG.Models.Menu;
 internal class MenuCriacao : Menu
 {
     public static Personagem? PersonagemCriado {  get; private set; }
+
     public static string? nick;
     public static string? VocacaoEscolhida { get; private set; }
     public static Equips? EquipamentosDoPersonagem {  get; private set; }
